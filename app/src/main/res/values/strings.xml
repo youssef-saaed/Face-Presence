@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Face Presence</string>
+    <string name="permission_granted">Permission Granted!</string>
+    <string name="permission_denied">Permission Denied!</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="student_list">Student List</string>
+    <string name="add_student">Add student</string>
+    <string name="name">Name</string>
+    <string name="student_id">Student ID</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="capture">Capture face</string>
+    <string name="last_pose">Last pose</string>
+</resources>
