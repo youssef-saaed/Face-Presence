@@ -99,18 +99,6 @@ To build the app:
 
 3. Build the APK using Android Studio.
 
-## Testing
-
-The project uses **JUnit** and **Espresso** for unit and UI testing. The testing libraries are included in the dependencies section.
-
-- Unit tests for business logic.
-- UI tests for user interaction.
-
-## Known Issues
-
-- The app currently supports only one face recognition model.
-- Camera permissions must be granted for the app to function properly.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
