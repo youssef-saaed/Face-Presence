@@ -25,10 +25,10 @@ FacePresence is an Android application designed for attendance recording using f
 Here are some screenshots of the app in action:
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="screenshots/1.jpg" width="24%" />
-  <img src="screenshots/2.jpg" width="24%" />
-  <img src="screenshots/3.jpg" width="24%" />
-  <img src="screenshots/4.jpg" width="24%" />
+  <img src="Screenshots/1.jpg" width="24%" />
+  <img src="Screenshots/2.jpg" width="24%" />
+  <img src="Screenshots/3.jpg" width="24%" />
+  <img src="Screenshots/4.jpg" width="24%" />
 </div>
 
 ## Installation
